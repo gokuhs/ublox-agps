@@ -1,5 +1,5 @@
 # ublox-agps
-Sample how to send A-GPS data from u‑blox to U7 module  
+Example of sending the agps data to the GPS module
 
 This is a simple exaple on pyton to write a Assist GPS data downloaded from de u-blox serer to out GPS Module.
 First we need to get an access tokken. To do go to this web: https://www.u-blox.com/en/assistnow-service-registration-form and summit the form. In 24 hours you will received an a similar menssage to this:
@@ -37,5 +37,7 @@ Go to the PyThon file and replace "<< Your GPS Module COM port >>" with your tok
 
 # Original Author
 The idea of this project is from: https://gist.github.com/veproza/55ec6eaa612781ac29e7
+
+Tested in ublox-7 (u7) módule
 
 
